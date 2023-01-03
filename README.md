@@ -12,7 +12,7 @@
 
 ```shell
 git clone https://rashedsarder13.github.io/me
-cd my-portfolio
+cd me
 ```
 
 If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm) (optional) -
